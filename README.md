@@ -46,6 +46,7 @@
 - Melhorando meus projetos
 - Produzindo música
 - Tentando deixar tudo com estética clean/underground
+- Andando de skate
 
 ---
 
