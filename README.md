@@ -12,7 +12,7 @@
 
 ---
 
-<h2>🧠 Linguagens que eu uso</h2>
+<h3>🧠 Linguagens que eu uso</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,php,py,lua" />
