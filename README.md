@@ -1,8 +1,8 @@
 <div align="center">
 
-<img align="right" height="190" src="https://raw.githubusercontent.com/classicazs/classicazs/main/assets/kirara-hoshi-curious.gif?raw=true">
+<img align="right" height="190" src="https://raw.githubusercontent.com/classicazs/classicazs/main/pfp.jpg">
 
-# 👋 Oii, eu sou classicazs
+<h3>👋 Oii, eu sou classicazs</h3>
 
 💻 Desenvolvedor focado em programação, música e projetos underground.  
 🚀 Sempre aprendendo coisa nova e criando projetos aleatórios.  
