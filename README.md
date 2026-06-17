@@ -4,7 +4,7 @@
 
 <h3>👋 Oii, eu sou classicazs</h3>
 
-💻 Desenvolvedor focado em programação, música e projetos underground.  
+💻 Dev focado em programação, música e projetos underground.  
 🚀 Sempre aprendendo coisa nova e criando projetos aleatórios.  
 🎵 Curto produção musical, skate e cultura internet/underground BR.
 
