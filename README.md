@@ -51,8 +51,4 @@
 ---
 
 ## 🌐 Contato
-
-- Instagram: classicazs
 - Discord: classica_.
-- Twitter: cclassicazs
-- Osu: Xzy_
